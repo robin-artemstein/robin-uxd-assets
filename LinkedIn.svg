@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 62.222222 61.764706"
+   preserveAspectRatio="xMinYMin"
+   version="1.1"
+   focusable="false"
+   class="lazy-loaded"
+   width="100"
+   height="100"
+   id="svg2054"
+   sodipodi:docname="LinkedIn.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2058" />
+  <sodipodi:namedview
+     id="namedview2056"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.4705882"
+     inkscape:cx="4.0338983"
+     inkscape:cy="76.932204"
+     inkscape:window-width="1440"
+     inkscape:window-height="827"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2054" />
+  <path
+     d="M 57.715555,0 H 4.6903694 C 2.1540731,0 -1e-6,2.005926 -1e-6,4.4770371 V 57.742223 c 0,2.474074 1.4133334,4.48 3.9496297,4.48 H 56.974815 c 2.539259,0 5.247407,-2.005926 5.247407,-4.48 V 4.4770371 C 62.222222,2.005926 60.254815,0 57.715555,0"
+     class="bug-text-color"
+     fill="none"
+     id="path2034"
+     style="fill-rule:evenodd;stroke:none;stroke-width:2.96296" />
+  <path
+     d="M 57.715555,0 H 4.6903694 C 2.1540731,0 -1e-6,2.005926 -1e-6,4.4770371 V 57.742223 c 0,2.474074 1.4133334,4.48 3.9496297,4.48 H 56.974815 c 2.539259,0 5.247407,-2.005926 5.247407,-4.48 V 4.4770371 C 62.222222,2.005926 60.254815,0 57.715555,0 Z M 23.703703,23.703704 h 8.376296 v 4.26963 h 0.09185 c 1.277037,-2.302223 5.048889,-4.64 9.712593,-4.64 8.951111,0 11.448889,4.752592 11.448889,13.555555 V 53.333334 H 44.444444 V 38.50963 c 0,-3.940741 -1.573333,-7.398519 -5.253333,-7.398519 -4.468149,0 -6.598519,3.025186 -6.598519,7.991112 V 53.333334 H 23.703703 Z M 8.888888,53.333334 h 8.888889 V 23.703704 H 8.888888 Z m 10,-40.000001 c 0,3.06963 -2.485926,5.555556 -5.555556,5.555556 -3.069629,0 -5.5555551,-2.485926 -5.5555551,-5.555556 0,-3.069629 2.4859261,-5.5555551 5.5555551,-5.5555551 3.06963,0 5.555556,2.4859261 5.555556,5.5555551 z"
+     class="background"
+     fill="#0a66c2"
+     id="path2036"
+     style="fill-rule:evenodd;stroke:none;stroke-width:2.96296;fill:#000000;fill-opacity:1" />
+</svg>
